@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: Arm_URDF_2025
+    relative_path: urdf/Arm_URDF_2025.urdf
+    xacro_args: hand:=true
+  SRDF:
+    relative_path: config/Arm_URDF_2025.srdf
+  CONFIG:
+    author_name: Parm Ghai
+    author_email: parm.ghai@mail.utoronto.ca
+    generated_timestamp: 1735615490
