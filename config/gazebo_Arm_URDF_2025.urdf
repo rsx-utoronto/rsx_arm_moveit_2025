@@ -414,7 +414,7 @@
       <cameraInfoTopicName>/camera/color/camera_info</cameraInfoTopicName>
       <depthImageTopicName>/camera/depth/image_raw</depthImageTopicName>
       <depthImageInfoTopicName>/camera/depth/camera_info</depthImageInfoTopicName>
-      <pointCloudTopicName>/camera/depth/points</pointCloudTopicName>
+      <pointCloudTopicName>/camera/depth/color/points</pointCloudTopicName>
       <frameName>camera_optical</frameName> <!-- name of link -->
       <pointCloudCutoff>0</pointCloudCutoff>
       <pointCloudCutoffMax>3.5</pointCloudCutoffMax>
